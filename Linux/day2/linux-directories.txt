@@ -1,0 +1,8 @@
+/  root directory.
+/home  normal users directory.
+/root root user home directory
+/etc system configurations.
+/var logs and newly changed data.
+/bin users commands
+/boot booting files are present 
+/tmp temproray files.
